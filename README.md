@@ -1,4 +1,4 @@
-# Instances_DLBPI_with_OR_Predecessor
+# Instances_DLBP1_with_OR_Predecessor
 1)	Instances for disassembly line balancing problem with AND/OR predecessors to minimize the station number  
 This project contains the instances utilized in [1] (see in folder of Instances) which contain most of the instances in published papers. To gain a more in-depth and thorough understanding of this problem, interested authors are encouraged to refer to our relevant papers[1].   
 
